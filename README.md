@@ -1,6 +1,6 @@
 # Website
-website for Git course
 
-updating on update-readme branch
+This is a really awesome website
 
-updated locally
+Updates made on master on GitHub before release
+
